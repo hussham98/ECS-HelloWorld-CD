@@ -1,0 +1,12 @@
+{
+  "name": "ECS-HelloWorld-CD",
+  "version": "1.0.0",
+  "description": "A simple Hello World Node.js app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Hussham",
+  "license": "MIT"
+}
+
